@@ -12,8 +12,8 @@
 /includes/ @github/docs-engineering
 /lib/search/popular-pages.json @github/docs-engineering
 Dockerfile @github/docs-engineering
-package-lock.json @github/docs-engineering
-package.json @github/docs-engineering
+package-lock.json @github/docs-engineeringgamer
+package.json @github/docs-engineeringamer
 
 # Localization
 /.github/actions-scripts/create-translation-batch-pr.js @github/docs-localization
